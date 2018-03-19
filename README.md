@@ -6,4 +6,4 @@ to give better understanding of how to create sparkcontext and sqlcontext.
 
 This is updated every week. Stay in touch!!
 
-Whatsapp: +91 8147796426
+Whatsapp: +353 892415773
