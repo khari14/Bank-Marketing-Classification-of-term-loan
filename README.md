@@ -1,4 +1,4 @@
-# Hari Krishna Kommineni(https://www.linkedin.com/in/khk1992/)
+# Hari Krishna Kommineni
 Data_Analytics
 
 This folder contains all the python operations before applying machine learning algorithms. We have a pyspark.ipnb file
