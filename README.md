@@ -1,4 +1,4 @@
-# Hari Krishna Kommineni
+# Bank Marketing dataset from UCI Repo
 Data_Analytics
 
 This folder contains all the python operations before applying machine learning algorithms. We have a pyspark.ipnb file
